@@ -1,1 +1,2 @@
 # Housing-Society-Event-Analysis
+Overview: Executed an extensive data analysis project to support a housing society in organizing a grand event. Leveraged a rich dataset containing information about residents, flats, decorators, and caterers to drive insights and optimize event logistics, decorations, and catering services. Aimed to enhance the event experience for residents while ensuring efficient resource utilization
